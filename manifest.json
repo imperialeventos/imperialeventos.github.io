@@ -1,6 +1,6 @@
 {
-    "name": "imperial_eventos_windows",
-    "short_name": "imperial_eventos_windows",
+    "name": "imperial_platform",
+    "short_name": "imperial_platform",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
